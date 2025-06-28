@@ -24,7 +24,7 @@ My projects aren’t just functional — they redefine how teams operate, pushin
 
 ### 📫 Reach Out
 
-- Portofolio → [thecodeforger](https://ajayaditya.vercel.app)  
+- Portofolio → [thecodeforger](https://ajayaditya.framer.website)  
 - Email → **ajayaditya.dev@gmail.com**  
 - LinkedIn → [linkedin.com/in/ajayaditya](https://linkedin.com/in/ajayaditya)
 - Twitter → [x.com/theCodeForger](https://x.com/Ajayaditya29860)
