@@ -1,30 +1,27 @@
-<h1 align="center">Ajayaditya (aka) theCodeForger</h1>
-<h3 align="center">Building with Next.js & Tailwind for Ambitious Startups</h3>
+<h1 align="center">Hi, I'm Ajayaditya 👋</h1>
 
+Applied AI Engineer specializing in production-grade LLM systems, enterprise RAG architecture, and scalable AI SaaS infrastructure.
 
-<p align="justify">
-I build the tools that make startups unstoppable.  
-I don’t just write code — I craft precision-driven, high-performance systems that turn complex workflows into smooth, scalable solutions.  
-With expertise in Next.js and TailwindCSS, I cut through the noise and deliver transformative value.  
-My projects aren’t just functional — they redefine how teams operate, pushing them to the next level of efficiency and impact.
-</p>
+## What I Do
 
+- Build Retrieval-Augmented Generation (RAG) systems with hybrid search and reranking
+- Design reliable, observable LLM workflows for multi-tenant production environments
+- Optimize inference pipelines for latency, cost, and hallucination reduction
+- Engineer scalable backend systems with FastAPI, PostgreSQL, and Docker
+- Develop modern full-stack AI products using Next.js and TypeScript
 
-### ⚡️ What I Bring to the Table
+## Focus Areas
 
-- Precision-built platforms engineered for **speed and scale**.  
-- Automation systems that **cut time, not corners**.  
-- Seamless UX/UI that **feels invisible — because it works**.  
-- Tools that let startups **outpace, outsmart, outbuild**.
+- LLM Infrastructure & Evaluation
+- Hybrid Retrieval Systems
+- Prompt Engineering & Guardrails
+- AI Observability & Reliability
+- Enterprise Knowledge Systems
 
+## Tech Stack
 
-<p align="center"><b>Let’s connect and build something that changes the game.</b></p>
+**AI & LLMs:** Gemini, Groq, Pinecone, Cohere, LangGraph  
+**Backend:** FastAPI, PostgreSQL, ClickHouse  
+**Frontend:** Next.js, React, TypeScript  
+**Infra:** Docker, Vercel, CI/CD  
 
----
-
-### 📫 Reach Out
-
-- Portofolio → [thecodeforger](https://ajayaditya.framer.website)  
-- Email → **ajayaditya.dev@gmail.com**  
-- LinkedIn → [linkedin.com/in/ajayaditya](https://linkedin.com/in/ajayaditya)
-- Twitter → [x.com/theCodeForger](https://x.com/Ajayaditya29860)
