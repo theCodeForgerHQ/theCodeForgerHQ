@@ -25,3 +25,13 @@ Applied AI Engineer specializing in production-grade LLM systems, enterprise RAG
 **Frontend:** Next.js, React, TypeScript  
 **Infra:** Docker, Vercel, CI/CD  
 
+<p align="center"><b>Let’s connect and build something that changes the game.</b></p>
+
+---
+
+### 📫 Reach Out
+
+- Portofolio → [thecodeforger](https://ajayaditya.framer.website)  
+- Email → **ajayaditya.dev@gmail.com**  
+- LinkedIn → [linkedin.com/in/ajayaditya](https://linkedin.com/in/ajayaditya)
+
