@@ -2,6 +2,16 @@
 
 Applied AI Engineer specializing in production-grade LLM systems, enterprise RAG architecture, and scalable AI SaaS infrastructure.
 
+## Team Hayes — JSAE Autonomous Driving AI Challenge 2026
+
+This account is **Team Hayes** (Ajayaditya Lokchandra, Nithisha Venkatesh), Sim-to-Real SW division, student class, in the [自動運転AIチャレンジ2026](https://www.jsae.or.jp/jaaic/). Our contributions to the competition repositories:
+
+- **Code** → [PRs to aichallenge-racingkart](https://github.com/AutomotiveAIChallenge/aichallenge-racingkart/pulls?q=is%3Apr+author%3AtheCodeForgerHQ): MPC / pure-pursuit fixes, eval and submission tooling, `make practice-4car`
+- **Docs** → [PRs to aichallenge-documentation-racingkart](https://github.com/AutomotiveAIChallenge/aichallenge-documentation-racingkart/pulls?q=is%3Apr+author%3AtheCodeForgerHQ): English translations and JA/EN resyncs, alt text, bilingual glossary, JA/EN consistency checker
+- **Issues** → [bug reports and requests](https://github.com/issues?q=is%3Aissue+author%3AtheCodeForgerHQ+org%3AAutomotiveAIChallenge) (bilingual, with reproductions)
+- **Tools** → [aichallenge-toolkit](https://github.com/theCodeForgerHQ/aichallenge-toolkit): ROS-free rosbag (mcap) analysis and pre-submit checks
+- **Articles (JA/EN)** → [Qiita @TeamHayes](https://qiita.com/TeamHayes) · [Zenn @ajayaditya](https://zenn.dev/ajayaditya)
+
 ## What I Do
 
 - Build Retrieval-Augmented Generation (RAG) systems with hybrid search and reranking
