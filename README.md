@@ -33,8 +33,3 @@ Open to Applied AI and full-stack SaaS roles. Coimbatore, India. Remote or reloc
 
 Also: LangGraph, pgvector, Qdrant, Pinecone, Groq, Gemini, OpenAI, Cohere.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theCodeForgerHQ/theCodeForgerHQ/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theCodeForgerHQ/theCodeForgerHQ/output/github-snake.svg" />
-  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/theCodeForgerHQ/theCodeForgerHQ/output/github-snake.svg" />
-</picture>
