@@ -1,47 +1,40 @@
-<h1 align="center">Hi, I'm Ajayaditya 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Ajayaditya%20Lokchandra&fontSize=40&fontAlignY=38&color=0:0f172a,100:1e3a8a&fontColor=ffffff&desc=Applied%20AI%20engineer&descAlignY=60&descSize=16" alt="Ajayaditya Lokchandra, Applied AI engineer" />
 
-Applied AI Engineer specializing in production-grade LLM systems, enterprise RAG architecture, and scalable AI SaaS infrastructure.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3500&pause=1200&center=true&vCenter=true&width=560&lines=RAG%2C+agents%2C+evals+and+guardrails;Full-stack+SaaS+with+Next.js+and+FastAPI;Open+to+Applied+AI+and+SaaS+roles" alt="RAG, agents, evals and guardrails. Full-stack SaaS with Next.js and FastAPI. Open to Applied AI and SaaS roles." />
+</p>
 
-## Team Hayes — JSAE Autonomous Driving AI Challenge 2026
+<p align="center">
+  <a href="https://ajayaditya.dev"><img src="https://img.shields.io/badge/Portfolio-ajayaditya.dev-0f172a?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ajayaditya"><img src="https://img.shields.io/badge/LinkedIn-ajayaditya-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ajayaditya.dev@gmail.com"><img src="https://img.shields.io/badge/Email-ajayaditya.dev%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-This account is **Team Hayes** (Ajayaditya Lokchandra, Nithisha Venkatesh), Sim-to-Real SW division, student class, in the [自動運転AIチャレンジ2026](https://www.jsae.or.jp/jaaic/). Our contributions to the competition repositories:
+I build LLM features that hold up in production (RAG, agents, evals, guardrails) and the full-stack SaaS around them.
 
-- **Code** → [PRs to aichallenge-racingkart](https://github.com/AutomotiveAIChallenge/aichallenge-racingkart/pulls?q=is%3Apr+author%3AtheCodeForgerHQ): MPC / pure-pursuit fixes, eval and submission tooling, `make practice-4car`
-- **Docs** → [PRs to aichallenge-documentation-racingkart](https://github.com/AutomotiveAIChallenge/aichallenge-documentation-racingkart/pulls?q=is%3Apr+author%3AtheCodeForgerHQ): English translations and JA/EN resyncs, alt text, bilingual glossary, JA/EN consistency checker
-- **Issues** → [bug reports and requests](https://github.com/issues?q=is%3Aissue+author%3AtheCodeForgerHQ+org%3AAutomotiveAIChallenge) (bilingual, with reproductions)
-- **Tools** → [aichallenge-toolkit](https://github.com/theCodeForgerHQ/aichallenge-toolkit): ROS-free rosbag (mcap) analysis and pre-submit checks
-- **Articles (JA/EN)** → [Qiita @TeamHayes](https://qiita.com/TeamHayes) · [Zenn @ajayaditya](https://zenn.dev/ajayaditya)
+Open to Applied AI and full-stack SaaS roles. Coimbatore, India. Remote or relocation.
 
-## What I Do
+### Projects
 
-- Build Retrieval-Augmented Generation (RAG) systems with hybrid search and reranking
-- Design reliable, observable LLM workflows for multi-tenant production environments
-- Optimize inference pipelines for latency, cost, and hallucination reduction
-- Engineer scalable backend systems with FastAPI, PostgreSQL, and Docker
-- Develop modern full-stack AI products using Next.js and TypeScript
+| Project | What it is |
+|---|---|
+| [Wolff](https://github.com/theCodeForgerHQ/wolff) | Open-source quote-to-cash SaaS: quotes, e-signature, GST invoices, Stripe and Razorpay, and a RAG assistant over your own data. Next.js, Express, FastAPI, Postgres + pgvector. [Live demo](https://wolff-web.vercel.app) |
+| [Athenaeum](https://github.com/NithishaVenkatesh/athenaeum-multi-agent-system) | Multi-agent learning platform with cited RAG answers and a 5-layer prompt-injection gate. Microsoft Agents League 2026 student award. 232 red-team cases. [Live](https://athenaeum-swart.vercel.app) |
+| [Sevi](https://github.com/theCodeForgerHQ/sevi) | Tamil hearing screen on Gnani speech models. Live audio over WebSockets to Prisma speech-to-text, adaptive digits-in-noise test. |
+| [Grappy](https://github.com/theCodeForgerHQ/Gappy) | AI agent that fixes Python bugs only after a real failing test turns green, then waits for human approval before opening a PR. |
+| [Nucleus-AI](https://github.com/NithishaVenkatesh/Nucleus-AI) | RAG over Confluence: LangGraph, cross-encoder reranking, NLI contradiction check, ClickHouse telemetry. |
+| [Quirk](https://github.com/theCodeForgerHQ/Quirk-V3) | Visual workflow builder that turns GitHub events into Slack and Asana actions. [Live](https://quirk-v2.vercel.app) |
 
-## Focus Areas
+### Stack
 
-- LLM Infrastructure & Evaluation
-- Hybrid Retrieval Systems
-- Prompt Engineering & Guardrails
-- AI Observability & Reliability
-- Enterprise Knowledge Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,nextjs,react,tailwind,postgres,docker,vercel,githubactions&perline=10" alt="Python, FastAPI, TypeScript, Next.js, React, Tailwind, Postgres, Docker, Vercel, GitHub Actions" />
+</p>
 
-## Tech Stack
+Also: LangGraph, pgvector, Qdrant, Pinecone, Groq, Gemini, OpenAI, Cohere.
 
-**AI & LLMs:** Gemini, Groq, Pinecone, Cohere, LangGraph  
-**Backend:** FastAPI, PostgreSQL, ClickHouse  
-**Frontend:** Next.js, React, TypeScript  
-**Infra:** Docker, Vercel, CI/CD  
-
-<p align="center"><b>Let’s connect and build something that changes the game.</b></p>
-
----
-
-### 📫 Reach Out
-
-- Portofolio → [thecodeforger](https://ajayaditya.framer.website)  
-- Email → **ajayaditya.dev@gmail.com**  
-- LinkedIn → [linkedin.com/in/ajayaditya](https://linkedin.com/in/ajayaditya)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theCodeForgerHQ/theCodeForgerHQ/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theCodeForgerHQ/theCodeForgerHQ/output/github-snake.svg" />
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/theCodeForgerHQ/theCodeForgerHQ/output/github-snake.svg" />
+</picture>
